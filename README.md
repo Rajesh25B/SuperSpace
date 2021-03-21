@@ -1,11 +1,11 @@
 # SuperSpace
-## A Social networking service company
+## A Social Networking Django website
 
-** This Django project has a few key features:
-    * Groups(similar to subreddits).
-    * Multipe Users and Authorizations.
-    * Posts in groups (similar to a tweet).
-    * Linking user profiles with '@' symbol.
-    * Multiple applications.
+### This Django project has a few key features:
+     - Groups(similar to subreddits).
+     - Multiple Users and Authorizations.
+     - Posts in groups (similar to a tweet).
+     - Linking user profiles with '@' symbol.
+     - Multiple applications.
 
 
